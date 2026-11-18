@@ -51,9 +51,8 @@ Customer Objection
 
 ## 📸 Workflow Screenshot
 
+![n8n AI Automation Workflow](image.png)
 image.png
-
-> Upload your workflow screenshot to the `assets` folder and ensure the filename matches the image path above.
 
 ## 🎯 Business Value
 
